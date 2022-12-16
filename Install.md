@@ -4,8 +4,8 @@ The Userlib SDK permits to create a Radioss user library using user code
 
 ## Develop the User code.
 
-  * Visit the Altair Radioss Help for the interface explanation : [User Subroutine help](https://2022.help.altair.com/2022.1/hwsolvers/rad/topics/solvers/rad/introduction_user_code_r.htm)
-  * Have a look at the examples provides in this repository : [Examples](https://github.com/OpenRadioss/userlib_sdk)
+  * Visit the Altair Radioss Help for the interface explanation : [Radioss User Subroutine help](https://2022.help.altair.com/2022.1/hwsolvers/rad/topics/solvers/rad/introduction_user_code_r.htm)
+  * Have a look at the examples provides in this repository : [Examples](https://github.com/OpenRadioss/userlib_sdk/tree/main/examples)
 
 ## Choose your platform and Compiler. 
 
